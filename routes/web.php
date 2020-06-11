@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('design');
+    return view('employee');
 });
 
 Route::get('/app',function(){
