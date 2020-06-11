@@ -109,7 +109,7 @@
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>3.200 NOK</span>
                                 <span class="bonus">+300</span>
                             </p>
                             <span class="position">full time</span>
@@ -135,21 +135,21 @@
                                 <input class="styled-checkbox" id="checkbox-2" type="checkbox">
                                 <label for="checkbox-2"></label>
                             </div>
-                            <img src="assets/images/rony.png" alt="profile picture" class="image">
+                            <img src="assets/images/tomas.png" alt="profile picture" class="image">
                             <div class="basic-info">
-                                <p class="name">Ronny Asmo</p>
-                                <span class="job-title">Software engineer</span>
+                                <p class="name">Tomas Lonsetteig</p>
+                                <span class="job-title">Business analyst</span>
                             </div>
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>4.000 NOK</span>
                             </p>
                             <span class="position">full time</span>
                         </div>
                         <div class="period">
                             <p>test period</p>
-                            <span class="month">2 months</span>
+                            <span class="month">15 months</span>
                         </div>
                         <div class="manage">
                             <div class="wrap">
@@ -168,22 +168,22 @@
                                 <input class="styled-checkbox" id="checkbox-3" type="checkbox">
                                 <label for="checkbox-3"></label>
                             </div>
-                            <img src="assets/images/rony.png" alt="profile picture" class="image">
+                            <img src="assets/images/kathrine.png" alt="profile picture" class="image">
                             <div class="basic-info">
-                                <p class="name">Ronny Asmo</p>
-                                <span class="job-title">Software engineer</span>
+                                <p class="name">Kathrine Lonsetteig</p>
+                                <span class="job-title">Project manager</span>
                             </div>
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>2.800 NOK</span>
                                 <span class="deduce">-50</span>
                             </p>
                             <span class="position">full time</span>
                         </div>
                         <div class="period">
                             <p>test period</p>
-                            <span class="month">2 months</span>
+                            <span class="month">1 year</span>
                         </div>
                         <div class="manage">
                             <div class="wrap">
@@ -202,21 +202,21 @@
                                 <input class="styled-checkbox" id="checkbox-4" type="checkbox">
                                 <label for="checkbox-4"></label>
                             </div>
-                            <img src="assets/images/rony.png" alt="profile picture" class="image">
+                            <img src="assets/images/arne.png" alt="profile picture" class="image">
                             <div class="basic-info">
-                                <p class="name">Ronny Asmo</p>
-                                <span class="job-title">Software engineer</span>
+                                <p class="name">Arne Opheim</p>
+                                <span class="job-title">Research engineer</span>
                             </div>
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>1.600 NOK</span>
                             </p>
                             <span class="position">full time</span>
                         </div>
                         <div class="period">
-                            <p>test period</p>
-                            <span class="month">2 months</span>
+                            <p>worker</p>
+                            <span class="month">15 years</span>
                         </div>
                         <div class="manage">
                             <div class="wrap">
@@ -235,22 +235,22 @@
                                 <input class="styled-checkbox" id="checkbox-5" type="checkbox">
                                 <label for="checkbox-5"></label>
                             </div>
-                            <img src="assets/images/rony.png" alt="profile picture" class="image">
+                            <img src="assets/images/ingrid.png" alt="profile picture" class="image">
                             <div class="basic-info">
-                                <p class="name">Ronny Asmo</p>
+                                <p class="name">Ingrid Oline</p>
                                 <span class="job-title">Software engineer</span>
                             </div>
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>5.000 NOK</span>
                                 <span class="bonus">+300</span>
                             </p>
                             <span class="position">full time</span>
                         </div>
                         <div class="period">
-                            <p>test period</p>
-                            <span class="month">2 months</span>
+                            <p>worker</p>
+                            <span class="month">15 years</span>
                         </div>
                         <div class="manage">
                             <div class="wrap">
@@ -269,21 +269,21 @@
                                 <input class="styled-checkbox" id="checkbox-6" type="checkbox">
                                 <label for="checkbox-6"></label>
                             </div>
-                            <img src="assets/images/rony.png" alt="profile picture" class="image">
+                            <img src="assets/images/simon.png" alt="profile picture" class="image">
                             <div class="basic-info">
-                                <p class="name">Ronny Asmo</p>
-                                <span class="job-title">Software engineer</span>
+                                <p class="name">Simon Ng</p>
+                                <span class="job-title">Support manager</span>
                             </div>
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>3.200 NOK</span>
                             </p>
                             <span class="position">full time</span>
                         </div>
                         <div class="period">
-                            <p>test period</p>
-                            <span class="month">2 months</span>
+                            <p>worker</p>
+                            <span class="month">2 years</span>
                         </div>
                         <div class="manage">
                             <div class="wrap">
@@ -302,21 +302,21 @@
                                 <input class="styled-checkbox" id="checkbox-7" type="checkbox">
                                 <label for="checkbox-7"></label>
                             </div>
-                            <img src="assets/images/rony.png" alt="profile picture" class="image">
+                            <img src="assets/images/berg.png" alt="profile picture" class="image">
                             <div class="basic-info">
-                                <p class="name">Ronny Asmo</p>
-                                <span class="job-title">Software engineer</span>
+                                <p class="name">Berg Moe</p>
+                                <span class="job-title">Support manager</span>
                             </div>
                         </div>
                         <div class="salary">
                             <p class="amount">
-                                <span>3.200NOK</span>
+                                <span>3.200 NOK</span>
                             </p>
                             <span class="position">full time</span>
                         </div>
                         <div class="period">
-                            <p>test period</p>
-                            <span class="month">2 months</span>
+                            <p>worker</p>
+                            <span class="month">2 years</span>
                         </div>
                         <div class="manage">
                             <div class="wrap">
